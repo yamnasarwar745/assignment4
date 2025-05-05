@@ -1,3 +1,7 @@
+import streamlit as st
+
+
+
 def main():
 
     num1 = input ("enter the first number:")
